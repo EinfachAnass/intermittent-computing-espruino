@@ -1,4 +1,4 @@
-# Solar-Powered Temperature & Humidity Data Logger (MA Thesis Project)
+# Solar-Powered Temperature & Humidity Data Logger
 
 ## Project Overview
 This project predicts future temperature and humidity at remote, off-grid sites using a solar-powered logger and machine learning (AutoGluon). It combines sensor data with real weather forecasts for accurate, actionable predictions.
